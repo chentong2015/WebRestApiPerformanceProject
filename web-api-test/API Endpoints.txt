@@ -1,0 +1,7 @@
+TODO. 后端Endpoints接口自动化测试
+- 使用后端框架自带的WebClient/MockMVC发送请求测试
+- 使用前端或后端APP发送请求测试
+- 编写Script自动化脚本发送请求测试
+
+- 使用第三方Library测试库API发送请求测试: Rest Assured, SoapUI
+- 使用第三方Tool软件工具发送请求测试: Postman, Bruno

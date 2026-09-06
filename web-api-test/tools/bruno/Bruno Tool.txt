@@ -1,0 +1,21 @@
+Move to Bruno (ref) which is free
+Bruno does not store data on remote servers and therefore not subject to the SSO requirements.
+We believe the export and import of Postman collections to be straight
+
+TODO. 安装bru命令自动化测试
+% node -v
+% npm -v
+% npm install -g @usebruno/cli
+% bru --version
+% bru run
+
+GUI测试自动保存本地.yml文件
+1. 通过bru命令执行自动测试
+2. 通过bash脚本启动bru命令执行
+
+Bruno 编写/调试 API
+> 保存测试用例
+> Bruno CLI（bru）
+> 命令行自动执行
+> 返回测试结果 / exit code
+> CI/CD判断成功或失败
