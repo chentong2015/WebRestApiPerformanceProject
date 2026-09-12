@@ -1,0 +1,13 @@
+URL: Uniform Resource Locator
+一种Http URI, 用来唯一定位web上的资源
+Includes information to access the resource it identifiers
+Locate and access the resource
+
+ftp://www.ftp.org/docs/text.txt
+mailto:user@essai.com
+
+组成部分:
+1 Protocol: Http, Https, FTP, Telnet
+2 Hostname: 主机名(DNS域名解析的名称) & IP Address of server
+3 Port: 服务器要接受的端口号 (默认端口8080可以显式写出来)
+4 Path-and-file-name: 名称和资源的路径(server上的相对路径)
